@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "461964153881",
+    "project_id": "yogamates-93235",
+    "storage_bucket": "yogamates-93235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461964153881:android:9ed6c3bc76be0642e24688",
+        "android_client_info": {
+          "package_name": "com.example.tinder_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461964153881-s562gsrb1k9gojtr0ea6k31n959hqiar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYCBm9C5e1JILUzQbUcsn_FtufngnkaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461964153881-s562gsrb1k9gojtr0ea6k31n959hqiar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461964153881:android:439d789de3f73dcae24688",
+        "android_client_info": {
+          "package_name": "com.yogamates.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461964153881-ohmrqhcti2lmn4to7m9vkhj1jvsvgtts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogamates.app",
+            "certificate_hash": "9de1cd10e467f6e8edb3b254fce8d7ad5959e428"
+          }
+        },
+        {
+          "client_id": "461964153881-s562gsrb1k9gojtr0ea6k31n959hqiar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYCBm9C5e1JILUzQbUcsn_FtufngnkaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461964153881-s562gsrb1k9gojtr0ea6k31n959hqiar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
